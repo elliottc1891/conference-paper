@@ -1,5 +1,6 @@
-Our submission to Bioinformatics 2019
+Submission to Bioinformatics 2019
 
+#Abstract
 #Research question
 #Raw data and analysis software
 #Runs done
