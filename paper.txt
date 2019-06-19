@@ -1,6 +1,9 @@
-Bioinformatics Nobel Prize Winner 2019
+Bioinformatics Nobel Prize Winner 2019/20
 Matthew Dale
 new change
+=======
+Elliott Chapman 19/06/19
+>>>>>>> 4b0f279efd5b9ba2d4194f117e285c59ab58f529
 
 #Abstract
 #Research question
